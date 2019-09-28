@@ -1,4 +1,4 @@
-Vue.c('alert',{
+Vue.component('alert',{
     template:
     `
         <button @click='on_click'>信息</button>
