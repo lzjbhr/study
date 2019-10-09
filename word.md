@@ -1,4 +1,4 @@
-MarkDown: 标低价
+﻿MarkDown: 标低价
 sneak mark : 偷偷的标记
 Markdown Preview Enhanced: 标记预览已增强
 Checker: 方格图案
@@ -13,3 +13,5 @@ balance: 平衡
 write-something: 写点东西的
 mounted: 安装
 Event: 事件
+lenght:长度
+price:价格; 价钱
